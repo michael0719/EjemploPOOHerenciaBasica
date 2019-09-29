@@ -1,0 +1,3 @@
+archivos recomendados a borrar despues de usar git clone para subirlo a nuestro repositorio
+rm -R .git
+rm -R .gitignore
